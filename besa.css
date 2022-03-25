@@ -1,0 +1,27 @@
+    .grid {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    
+    .grid__row {
+        padding: 0;
+        display: flex;
+    }
+    
+    .grid__colum-1 {
+        width: 18%;
+    }
+    
+    .grid__colum-2 {
+        width: 82%;
+        background-color: ;
+    }
+    
+    .product {
+        display: flex;
+        background-color: ;
+    }
+    
+    .product__colum {
+        width: 18.5%;
+    }
